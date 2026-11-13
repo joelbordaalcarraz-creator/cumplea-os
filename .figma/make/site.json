@@ -1,0 +1,10 @@
+{
+  "description": "Celebra los 16 años con una página dinámica e innovadora que reúne detalles especiales para compartir con la cumpleañera y sus invitados.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
