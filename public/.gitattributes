@@ -1,2 +1,4 @@
-# AgentPlat packages this default favicon directly from source without LFS hydration.
-favicon.png -filter -diff -merge -text
+# Static hosts need public assets as regular Git blobs, not LFS pointers.
+*.png -filter -diff -merge -text
+*.jpg -filter -diff -merge -text
+*.jpeg -filter -diff -merge -text
